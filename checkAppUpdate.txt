@@ -5,7 +5,7 @@
    "versionName":"1.45",
    "versionCode":10,
    "title":"Update Available",
-   "message":"It is mandatory to install update to continue..",
+   "message":"Get the latest update now from 'www.livetv24x7.in/#download' for better entertainment..",
    "isCancellable":false,
    "positiveButton":"Update",
    "negativeButton":"Close",
