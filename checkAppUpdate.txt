@@ -5,7 +5,7 @@
    "versionName":"1.50",
    "versionCode":11,
    "title":"Update Available",
-   "message":"It is mandatory to install update to continue..",
+   "message":"If the installation fails:\n1. Restart the mobile and try again\n2. Uninstall the current version of app and download from http://livetv24x7.in/LiveTV24x7.apk",
    "isCancellable":false,
    "positiveButton":"Update",
    "negativeButton":"Close",
