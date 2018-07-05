@@ -5,7 +5,7 @@
    "versionName":"1.50",
    "versionCode":11,
    "title":"Update Available",
-   "message":"It is mandatory to install update to continue..",
+   "message":"It is mandatory to install update to continue.. Please restart mobile, if the update does not install..",
    "isCancellable":false,
    "positiveButton":"Update",
    "negativeButton":"Close",
