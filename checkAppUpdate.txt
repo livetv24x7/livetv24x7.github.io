@@ -10,6 +10,7 @@
    "positiveButton":"Update",
    "negativeButton":"Close",
    "updateUrl":"http://livetv24x7.in/LiveTV24x7.apk",
+   "downloadUrl":"http://livetv24x7.in/LiveTV24x7.apk",
    "channelListUrl":"http://smumcdnems04.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.data.cdn.jio.com/apis/v1.3/getMobileChannelList/get/?os=android&devicetype=phone",
    "host":"https://livetv11.000webhostapp.com/",
    "ads":"0000"
