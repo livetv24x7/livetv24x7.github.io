@@ -2,7 +2,7 @@
 permalink: /404.html
 ---
 <script>
-  var allposts = ["http://livetv24x7.tk/LiveTV24x7.apk"];  
+  var allposts = [];  
   function redirectToCorrectPage() { 
     {% for post in site.posts %}  
       allposts.push("{{ site.url }}{{ post.url }}");  
